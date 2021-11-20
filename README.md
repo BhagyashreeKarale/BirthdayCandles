@@ -40,7 +40,7 @@ for i in candles:
 ```
 But to make code shorter I've used an existing function of python (count) which functions the similarly.
 ```python
-units = candles.count(talles_candle)
+units = candles.count(tallest_candle)
 #units=2
 ```
 Hence our code return 2 which is the number of tallest candles to be blown.
